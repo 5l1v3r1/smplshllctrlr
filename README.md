@@ -1,2 +1,2 @@
 # smplshllctrlr
-New source will be available soon. 
+Moved to https://github.com/z0noxz/mando.me
